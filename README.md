@@ -8,6 +8,10 @@ A simple Flutter party game clone based on the original Undercover Game.
 - Word-pair system
 - Private role display
 
+<img src="a.png" width="200"/>
+<img src="b.png" width="200"/>
+<img src="c.png" width="200"/>
+<img src="d.png" width="200"/>
 ## 🧪 How to Run
 
 ```bash
@@ -17,10 +21,4 @@ flutter pub get
 flutter run
 
 
-## Screenshots
-![a](https://github.com/user-attachments/assets/3ff2773d-ba68-479b-9675-7c0c5a3b97c6)
 
-<img src="a.png" width="300"/>
-<img src="b.png" width="300"/>
-<img src="c.png" width="300"/>
-<img src="d.png" width="300"/>
