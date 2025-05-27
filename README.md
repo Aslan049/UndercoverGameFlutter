@@ -16,7 +16,7 @@ A simple Flutter party game clone based on the original Undercover Game.
 
 ```bash
 git clone https://github.com/yourusername/undercover_game_clone.git
-cd undercover_game_clone
+cd undercover_game
 flutter pub get
 flutter run
 
