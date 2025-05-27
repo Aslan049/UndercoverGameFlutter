@@ -1,16 +1,26 @@
-# undercover_game
+# Undercover Game Clone - Flutter
 
-A new Flutter project.
+A simple Flutter party game clone based on the original Undercover Game.
 
-## Getting Started
+## 🔧 Features
+- Setup screen to enter number of players and names
+- Role distribution (1 Undercover, rest Citizens)
+- Word-pair system
+- Private role display
 
-This project is a starting point for a Flutter application.
+## 🧪 How to Run
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/yourusername/undercover_game_clone.git
+cd undercover_game_clone
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![a](https://github.com/user-attachments/assets/3ff2773d-ba68-479b-9675-7c0c5a3b97c6)
+
+<img src="a.png" width="300"/>
+<img src="b.png" width="300"/>
+<img src="c.png" width="300"/>
+<img src="d.png" width="300"/>
